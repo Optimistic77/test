@@ -1,0 +1,131 @@
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\bin\Debug\UiDesign.exe.config
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\bin\Debug\UiDesign.exe
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\bin\Debug\UiDesign.pdb
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\Sample4.csprojAssemblyReference.cache
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\MainWindow.g.cs
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\App.g.cs
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\UiDesign_MarkupCompile.cache
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\UiDesign_MarkupCompile.lref
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\MainWindow.baml
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\UiDesign.g.resources
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\UiDesign.Properties.Resources.resources
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\Sample4.csproj.GenerateResource.cache
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\UiDesign.exe
+C:\Users\zhouh\Desktop\WPFUI\src\Sample4\obj\Debug\UiDesign.pdb
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\bin\Debug\UiDesign.exe.config
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\bin\Debug\UiDesign.exe
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\bin\Debug\UiDesign.pdb
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\MainWindow.g.cs
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\App.g.cs
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\UiDesign_MarkupCompile.cache
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\UiDesign_MarkupCompile.lref
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\MainWindow.baml
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\UiDesign.g.resources
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\UiDesign.Properties.Resources.resources
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\Sample4.csproj.GenerateResource.cache
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\UiDesign.exe
+C:\Users\77\Desktop\WPF-UI-Design\src\Sample4\obj\Debug\UiDesign.pdb
+C:\Users\77\Desktop\Sample4\bin\Debug\UiDesign.exe.config
+C:\Users\77\Desktop\Sample4\bin\Debug\UiDesign.exe
+C:\Users\77\Desktop\Sample4\bin\Debug\UiDesign.pdb
+C:\Users\77\Desktop\Sample4\obj\Debug\Sample4.csproj.AssemblyReference.cache
+C:\Users\77\Desktop\Sample4\obj\Debug\MainWindow.g.cs
+C:\Users\77\Desktop\Sample4\obj\Debug\App.g.cs
+C:\Users\77\Desktop\Sample4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\77\Desktop\Sample4\obj\Debug\UiDesign_MarkupCompile.cache
+C:\Users\77\Desktop\Sample4\obj\Debug\UiDesign_MarkupCompile.lref
+C:\Users\77\Desktop\Sample4\obj\Debug\MainWindow.baml
+C:\Users\77\Desktop\Sample4\obj\Debug\UiDesign.g.resources
+C:\Users\77\Desktop\Sample4\obj\Debug\UiDesign.Properties.Resources.resources
+C:\Users\77\Desktop\Sample4\obj\Debug\Sample4.csproj.GenerateResource.cache
+C:\Users\77\Desktop\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+C:\Users\77\Desktop\Sample4\obj\Debug\UiDesign.exe
+C:\Users\77\Desktop\Sample4\obj\Debug\UiDesign.pdb
+D:\Files\YiSha\Sample4\Sample4\bin\Debug\UiDesign.exe.config
+D:\Files\YiSha\Sample4\Sample4\bin\Debug\UiDesign.exe
+D:\Files\YiSha\Sample4\Sample4\bin\Debug\UiDesign.pdb
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\Sample4.csproj.AssemblyReference.cache
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\MainWindow.g.cs
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\App.g.cs
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\UiDesign_MarkupCompile.cache
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\UiDesign_MarkupCompile.lref
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\MainWindow.baml
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\UiDesign.g.resources
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\UiDesign.Properties.Resources.resources
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\Sample4.csproj.GenerateResource.cache
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\UiDesign.exe
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\UiDesign.pdb
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\usCC.g.cs
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\usCC.baml
+D:\Files\YiSha\Sample4\Sample4\bin\Debug\FirstFloor.ModernUI.dll
+D:\Files\YiSha\Sample4\Sample4\bin\Debug\FirstFloor.ModernUI.xml
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\test1.baml
+D:\Files\YiSha\Sample4\Sample4\obj\Debug\App.baml
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\UiDesign.exe.config
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\UiDesign.exe
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\UiDesign.pdb
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\FirstFloor.ModernUI.dll
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\FirstFloor.ModernUI.xml
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.AssemblyReference.cache
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\test1.baml
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\MainWindow.g.cs
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\usCC.g.cs
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\App.g.cs
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign_MarkupCompile.cache
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign_MarkupCompile.lref
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\App.baml
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\MainWindow.baml
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\usCC.baml
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.g.resources
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.Properties.Resources.resources
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.GenerateResource.cache
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.exe
+D:\Files\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.pdb
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.dll
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.Wpf.dll
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\Newtonsoft.Json.dll
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.pdb
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.xml
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.Wpf.pdb
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.Wpf.xml
+D:\Files\YiSha\Sample4 - 副本\Sample4\bin\Debug\Newtonsoft.Json.xml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\UiDesign.exe.config
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\UiDesign.exe
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\UiDesign.pdb
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\FirstFloor.ModernUI.dll
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.dll
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.Wpf.dll
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\Newtonsoft.Json.dll
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\FirstFloor.ModernUI.xml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.pdb
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.xml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.Wpf.pdb
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\LiveCharts.Wpf.xml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\bin\Debug\Newtonsoft.Json.xml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.AssemblyReference.cache
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.SuggestedBindingRedirects.cache
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\test1.baml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\MainWindow.g.cs
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\usCC.g.cs
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\App.g.cs
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign_MarkupCompile.cache
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign_MarkupCompile.lref
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\App.baml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\MainWindow.baml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\usCC.baml
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.g.resources
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.Properties.Resources.resources
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.GenerateResource.cache
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\Sample4.csproj.CopyComplete
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.exe
+E:\论文--基于物联网的智能阀控云监测系统研究_论文\1728\YiSha\Sample4 - 副本\Sample4\obj\Debug\UiDesign.pdb

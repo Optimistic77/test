@@ -1,0 +1,182 @@
+﻿<UserControl x:Class="UiDesign.usCC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UiDesign"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="test1.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid Grid.Row="1" Grid.Column="1" Background="#F5F6FA">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="233*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Dashboard" FontSize="28" VerticalAlignment="Bottom" Foreground="#233334" Margin="15,0,-0.8,222.6" Grid.ColumnSpan="2" Grid.RowSpan="2" />
+
+        <UniformGrid Columns="3" Grid.ColumnSpan="2" Margin="0,50,0.2,446" Grid.RowSpan="3">
+
+            <Border Margin="15" CornerRadius="5">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,1" EndPoint="1,1">
+                        <GradientStop Offset="0" Color="#FF8C69"/>
+                        <GradientStop Offset="1" Color="#FF7000"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="&#xe6cf;" FontFamily="Fonts/#iconfont" FontSize="50" Foreground="White" VerticalAlignment="Bottom" Margin="10 0 0 0"/>
+                    <TextBlock Text="Stock Total" Grid.Row="1" VerticalAlignment="Center" FontSize="16" Margin="10 0 0 0" Foreground="White"/>
+                    <TextBlock Text="$150000" FontWeight="Bold" VerticalAlignment="Center" Grid.Row="2" FontSize="22" Margin="10 0 0 0" Foreground="White"/>
+                    <TextBlock Text="Incrased by 60%" Grid.Row="3" FontSize="20" Foreground="White" Margin="10 0 0 0" VerticalAlignment="Center"/>
+
+                    <Canvas ClipToBounds="True" Grid.RowSpan="4">
+                        <Border Canvas.Right="-40" Canvas.Top="10" Grid.RowSpan="4" Width="110" Height="110"  CornerRadius="100" Background="#ffffff" Opacity="0.2" VerticalAlignment="Top"  HorizontalAlignment="Right"/>
+                        <Border Canvas.Right="-10" Canvas.Top="100" Grid.RowSpan="4" Width="110" Height="110" CornerRadius="100" Background="#ffffff" Opacity="0.2" VerticalAlignment="Bottom"  HorizontalAlignment="Right"/>
+                    </Canvas>
+
+                </Grid>
+
+
+            </Border>
+
+            <Border Margin="15" CornerRadius="5">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,1" EndPoint="1,1">
+                        <GradientStop Offset="0" Color="#FFD700"/>
+                        <GradientStop Offset="1" Color="#FFC100"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="&#xe602;" FontFamily="Fonts/#iconfont" FontSize="35" Foreground="White" VerticalAlignment="Bottom" Margin="10 0 0 0"/>
+                    <TextBlock Text="Total Proflt" Grid.Row="1" VerticalAlignment="Center" FontSize="16" Margin="10 0 0 0" Foreground="White"/>
+                    <TextBlock Text="$250000" FontWeight="Bold" VerticalAlignment="Center" Grid.Row="2" FontSize="22" Margin="10 0 0 0" Foreground="White"/>
+                    <TextBlock Text="Incrased by 30%" Grid.Row="3" FontSize="20" Foreground="White" Margin="10 0 0 0" VerticalAlignment="Center"/>
+
+
+                    <Canvas ClipToBounds="True" Grid.RowSpan="4">
+                        <Border Canvas.Right="-40" Canvas.Top="10" Grid.RowSpan="4" Width="110" Height="110"  CornerRadius="100" Background="#ffffff" Opacity="0.2" VerticalAlignment="Top"  HorizontalAlignment="Right"/>
+                        <Border Canvas.Right="-10" Canvas.Top="100" Grid.RowSpan="4" Width="110" Height="110" CornerRadius="100" Background="#ffffff" Opacity="0.2" VerticalAlignment="Bottom"  HorizontalAlignment="Right"/>
+                    </Canvas>
+
+                </Grid>
+            </Border>
+
+            <Border Margin="15" CornerRadius="5">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,1" EndPoint="1,1">
+                        <GradientStop Offset="0" Color="#00CED1"/>
+                        <GradientStop Offset="1" Color="#59E6B5"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="&#xe634;" FontFamily="Fonts/#iconfont" FontSize="50" Foreground="White" VerticalAlignment="Bottom" Margin="10 0 0 0"/>
+                    <TextBlock Text="Unique Visitors" Grid.Row="1" VerticalAlignment="Center" FontSize="16" Margin="10 0 0 0" Foreground="White"/>
+                    <TextBlock Text="$250000" FontWeight="Bold" VerticalAlignment="Center" Grid.Row="2" FontSize="22" Margin="10 0 0 0" Foreground="White"/>
+                    <TextBlock Text="Incrased by 80%" Grid.Row="3" FontSize="20" Foreground="White" Margin="10 0 0 0" VerticalAlignment="Center"/>
+
+
+                    <Canvas ClipToBounds="True" Grid.RowSpan="4">
+                        <Border Canvas.Right="-40" Canvas.Top="10" Grid.RowSpan="4" Width="110" Height="110"  CornerRadius="100" Background="#ffffff" Opacity="0.2" VerticalAlignment="Top"  HorizontalAlignment="Right"/>
+                        <Border Canvas.Right="-10" Canvas.Top="100" Grid.RowSpan="4" Width="110" Height="110" CornerRadius="100" Background="#ffffff" Opacity="0.2" VerticalAlignment="Bottom"  HorizontalAlignment="Right"/>
+                    </Canvas>
+                </Grid>
+            </Border>
+
+
+        </UniformGrid>
+
+        <Border Background="White" Grid.Row="2" CornerRadius="10" Margin="15,15.4,15.2,15" Grid.ColumnSpan="2"/>
+
+        <Grid Grid.Row="2" Margin="15,15.4,15.2,15" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Margin="5 0 0 0" VerticalAlignment="Center" Text="状态" FontSize="20" Foreground="#233334" />
+
+            <DataGrid Grid.Row="2" Background="Transparent" HeadersVisibility="Column" AutoGenerateColumns="False" CanUserAddRows="False" Name="datagrid"
+                          VerticalGridLinesBrush="Transparent" HorizontalGridLinesBrush="WhiteSmoke"
+                          BorderThickness="2">
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="Foreground" Value="#959595"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="Height" Value="35"/>
+                        <Setter Property="FontSize" Value="19"/>
+                        <!--<Setter Property="Foreground" Value="Red"/>-->
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Setter Property="Height" Value="25"/>
+                        <Setter Property="Foreground" Value="#959595"/>
+                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    </Style>
+                </DataGrid.RowStyle>
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="使用单位" Width="*"  Binding="{Binding 使用单位}"   ElementStyle="{StaticResource ContentStyle}" />
+                    <DataGridTextColumn Header="应用场景" Width="*" Binding="{Binding 应用场景}"    ElementStyle="{StaticResource ContentStyle}" />
+                    <DataGridTextColumn Header="设备编号" Width="*"     Binding="{Binding 设备编号}"    ElementStyle="{StaticResource ContentStyle}" />
+                    <DataGridTextColumn Header="运行状态" Width="*"    Binding="{Binding 运行状态}"  ElementStyle="{StaticResource ContentStyle}"   />
+                    <DataGridTextColumn Header="实时阀位" Width="*"    Binding="{Binding 实时阀位}"  ElementStyle="{StaticResource ContentStyle}"   />
+
+                    <DataGridTemplateColumn Header="Level" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Width="75" Height="25" BorderThickness="0"
+                                            Content="{Binding Status}" Foreground="White"
+                                            Background="{Binding BackColor}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridCheckBoxColumn/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+    </Grid>
+
+</UserControl>
